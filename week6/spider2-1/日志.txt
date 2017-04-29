@@ -1,0 +1,9 @@
+spider1-2增加了动态二维数组，获取动态模块
+spider2
+	数据结构处理
+	第三方库 libevent引入
+spider3 网络下载
+	
+spider4 整合
+	
+	
